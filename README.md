@@ -3,7 +3,7 @@
 CS student at Emory (GPA 3.94). I like turning an idea into a working system, then measuring it.
 
 **Portfolio:** [vivic0107.github.io](https://vivic0107.github.io) · **GitHub:** [github.com/vivic0107](https://github.com/vivic0107)  
-Open to **SWE / backend internships** (Summer 2027). Atlanta-based; open to relocation.
+Open to **SWE / backend internships**. Atlanta-based; open to relocation.
 
 ## Featured work
 
